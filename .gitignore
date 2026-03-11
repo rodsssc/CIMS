@@ -40,3 +40,4 @@ Thumbs.db
 # Optional: NPM lock files (if you want to ignore, but usually it's recommended to commit)
 # package-lock.json
 # yarn.lock
+test-api.http
